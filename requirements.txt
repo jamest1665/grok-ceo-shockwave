@@ -1,0 +1,12 @@
+langgraph
+langchain-xai
+pydantic
+lancedb
+mesa
+fastapi
+uvicorn
+gradio
+gitpython
+python-dotenv
+docker
+tenacity
